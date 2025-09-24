@@ -27,7 +27,6 @@ Menampilkan hero section full screen, daftar produk, halaman about, dan kontak.
    npm install
    # React Router
    npm install react-router-dom
-
   # AOS (Animate On Scroll)
   npm install aos
 
